@@ -31,6 +31,7 @@ h1{
     margin-left: auto;
     margin-right:auto ;
     display: block;
+    height: 40%;
 }
 
 .bottom{
@@ -55,6 +56,9 @@ h2{
     text-align: center;
 }
 
+.math{
+    height: 20rem; 
+}
 hr {
     border-style: dotted none none;
     border-width: 10px;
@@ -79,6 +83,10 @@ hr {
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
+
+.coding{
+height: 20rem;
+}
   
   .btn:hover {
     background: #3cb0fd;
